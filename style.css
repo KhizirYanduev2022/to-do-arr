@@ -1,0 +1,44 @@
+.wrapper{
+text-align: center;
+}
+
+
+
+
+.sect{
+    display: flex;
+    justify-content:  space-between;
+    margin: 0 auto;
+    max-width: 400px;
+    margin-top: 25px;
+
+    border: 1px solid black;
+    border-radius: 10px;
+    align-items:center ;
+
+}
+
+.but{
+ width: 20px;
+ height: 20px;
+    text-align: center;
+
+}
+
+
+body{
+    background-color: blueviolet;
+}
+
+
+
+
+.btn{
+ background-color: brown;
+border:none;
+ border-radius: 10px;
+ color: white;
+
+}
+
+
